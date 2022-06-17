@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "OpenSans-Regular";
+  src: local("OpenSans-Regular"), url("../../fonts/Open_Sans/OpenSans/OpenSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "OpenSans-Bold";
+  src: local("OpenSans-Bold"), url("../../fonts/Open_Sans/OpenSans/OpenSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "OpenSans-ExtraBold";
+  src: local("OpenSans-ExtraBold"), url("../../fonts/Open_Sans/OpenSans/OpenSans-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "OpenSans-Medium";
+  src: local("OpenSans-Medium"), url("../../fonts/Open_Sans/OpenSans/OpenSans-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "OpenSans-SemiBold";
+  src: local("OpenSans-SemiBold"), url("../../fonts/Open_Sans/OpenSans/OpenSans-SemiBold.ttf") format("truetype");
+}
+/*# sourceMappingURL=variables.css.map */
